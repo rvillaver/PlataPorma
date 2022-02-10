@@ -14,16 +14,26 @@ Shuffle the Political Issues and Candidate Cards into their respective piles. Gi
 
 ### Basic Game: 3 – 5 Players
 Plataporma is played in a series of rounds where players try to get the vote of the Voter player to earn points. The first to 3 points wins! 
-Step 1 :	Reveal the Issue
+
+### Step 1 :	Reveal the Issue
+
 The Voter chooses a card in their hand that will be the Current Issue for the round. They then read it aloud and put it on the table for everyone to see.
-Step 2 :	Promote Candidates
+
+### Step 2 :	Promote Candidates
+
 Each other player (starting from the player to the Voter’s left) chooses 2 cards from their hand to play as their candidates (President and Vice-President pairing). They must explain to the Voter why their candidates are the best to address the Current Issue.
 Once per round, if a player doesn’t like the candidates in their cards, they may discard as many cards from their hand to draw that many new cards.
-Step 3 :	Vote for favorite Candidate
+
+### Step 3 :	Vote for favorite Candidate
+
 After each player has taken their turn to promote their candidates, the Voter chooses which pair they liked the most. The player whose pair was picked wins the round and gets a point! They put the Current Issue card face down in front of them to track their points.
-Step 4 :	Prepare for the next round
+
+### Step 4 :	Prepare for the next round
+
 Everyone discards all used cards and then draws back up to 4 cards. If there are no more cards in the draw deck, shuffle the discarded cards back into the draw deck.
-Step 5 :	Start the next round
+
+### Step 5 :	Start the next round
+
 Start a new round with the player that won the last round as the new Voter for the round. The first player to get 3 points wins!
 
 ### Debate Variant: 6 – 10 Players
